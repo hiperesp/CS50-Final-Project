@@ -1,0 +1,22 @@
+{
+    "name": "hiperesp/framework",
+    "description": "CS50 Final Project",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.10",
+        "slim/psr7": "^1.5",
+        "slim/twig-view": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "hiperesp\\framework\\": "framework/",
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabrielramos149@gmail.com"
+        }
+    ]
+}
