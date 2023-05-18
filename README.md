@@ -1,5 +1,4 @@
 # og:preview
-#### Video Demo: https://www.youtube.com/watch?v=OkiLleXy50o
 #### Description:
 My project is a web application that I created to assist web developers and content creators in generating and previewing OpenGraph tags before publishing content on social media platforms. Opengraph tags play a critical role in determining how a web page is displayed on various social media channels. They provide metadat that social media platforms use to generate previews of a website's content, includint the title, description and image.\
 \
